@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ASS_HM_Notepad_Room</string>
+    <string name="newNote">Новая заметка</string>
+    <string name="updateNote">Редактирование</string>
+</resources>
